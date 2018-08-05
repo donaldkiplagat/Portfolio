@@ -117,10 +117,14 @@ body,html {
 }
 .body-background{
   background-image: url("../images/table.jpg");
+  height:120%;
   background-position:center;
   background-repeat: no-repeat;
-  position: relative;
+  position:inherit;
   background-size:cover;
   opacity: 4.0;
 }
-.
+.Java{
+  color: #B22222;
+  font-weight: bold;
+}
