@@ -74,16 +74,20 @@ body,html {
 }
 .LeftSection{
   float:left;
+  font-family:sans-serif;
 
 }
 .RightSection{
   float:right;
   text-align: left;
+  font-family:sans-serif;
+  line-height: 15px;
 }
 .MiddleSection{
   float:center;
   text-align: center;
-  line-height: 30px;
+  line-height: 28px;
+  font-family:sans-serif;
 }
 .MiddleSection ul{
   list-style: none;
@@ -91,7 +95,17 @@ body,html {
 .head{
   text-align: center;
   text-decoration: underline;
+  font-family:sans-serif;
 }
 .LeftSection h2{
   text-decoration: underline;
+}
+.RightSection h2{
+  text-decoration: underline;
+}
+.MiddleSection h2{
+  text-decoration: underline;
+}
+.RightSection ol>li{
+  font-weight: bold;:
 }
