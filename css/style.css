@@ -74,13 +74,24 @@ body,html {
 }
 .LeftSection{
   float:left;
+
 }
 .RightSection{
   float:right;
+  text-align: left;
 }
 .MiddleSection{
-  float:right;
+  float:center;
+  text-align: center;
+  line-height: 30px;
+}
+.MiddleSection ul{
+  list-style: none;
 }
 .head{
   text-align: center;
+  text-decoration: underline;
+}
+.LeftSection h2{
+  text-decoration: underline;
 }
