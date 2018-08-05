@@ -72,3 +72,15 @@ body,html {
     background: #B22222;
     color: white;
 }
+.LeftSection{
+  float:left;
+}
+.RightSection{
+  float:right;
+}
+.MiddleSection{
+  float:right;
+}
+.head{
+  text-align: center;
+}
