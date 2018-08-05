@@ -12,7 +12,7 @@ body,html {
     /* The image used */
     background-image: url("../images/hero.jpg");
     /* Set a specific height */
-    height: 78%;
+    height: 84%;
     /* Position and center the image to scale nicely on all screens */
     background-position:top;
     background-repeat: no-repeat;
@@ -88,6 +88,7 @@ body,html {
   text-align: center;
   line-height: 28px;
   font-family:sans-serif;
+
 }
 .MiddleSection ul{
   list-style: none;
@@ -109,3 +110,17 @@ body,html {
 .RightSection ol>li{
   font-weight: bold;:
 }
+.Microsoft{
+  color:darkblue;
+  font-style: italic;
+  font-weight: bold;
+}
+.body-background{
+  background-image: url("../images/table.jpg");
+  background-position:center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size:cover;
+  opacity: 4.0;
+}
+.
